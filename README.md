@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @crkandrei
+- 🖥️ Web Developer since 2016
+- 📦 Founder FastMeal (www.fastmeal.ro)
+- 💞️ Laravel| PHP | Javscript | Jquery | MySql | AWS | NodeJs | VueJS
+- 👀 I’m interested in collaboration
